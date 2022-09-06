@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KlauzPeti
+- 👋 Hi, I’m @THE STRIKE
 - 👀 I’m interested in sports and programing.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on nothing (right now)
