@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THE STRIKE
 - 👀 I’m interested in sports and programing.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C and C#.
 - 💞️ I’m looking to collaborate on nothing (right now)
 - 📫 How to reach me klauzpetiii@gmail.com
 
